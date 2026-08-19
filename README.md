@@ -5,6 +5,9 @@
 และการจัดการบัญชีผู้ใช้ ข้อมูลถูกเก็บผ่านไฟล์ CSV (ผู้ใช้) และไฟล์ JSON (สินค้า)
 โดยใช้ไลบรารี [json-simple](https://github.com/fangyidong/json-simple)
 
+> โปรเจกต์นี้เป็นงานที่ทำระหว่างเรียน (mini project ในวิชา Java) เพื่อฝึกฝน
+> แนวคิด OOP และการเขียนโปรแกรมแบบ console-based application  
+
 ## ฟีเจอร์
 
 **Customer**
